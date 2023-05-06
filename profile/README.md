@@ -1,5 +1,4 @@
-# Hello & welcome to our page!
-
-![An illustration showing a dystopian city on the moon, with text saying "Aviance.".](https://media.discordapp.net/attachments/1020435589616648222/1032489569372868658/Untitled.png?width=1078&height=606)
-
-This is where open-source projects made by us are released. We have been on this whole scene since we were founded(unoficially) on July 25, 2022. Since then, we have strived to become the leader in whatever industry we work in.
+<div align="center">
+  <h1> Welcome to avnce!</h1>
+  <p> avnce is a division of <a href='https://github.com/avianceapp'>@aviance</a> that specializes in making software and doing things that aligns differently from that of aviance. Basically it is the aviance think tank for different stuff other than what aviance actually does. </p>
+</div>
